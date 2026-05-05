@@ -4,4 +4,4 @@ let introduction = 'my name,\n' +
 'Sincerely,\n' +
 'Raishaun Cooke :\'
 
-document.getElementById("result").innderHTML = introduction;
+document.getElementById("result").innerHTML = introduction;
